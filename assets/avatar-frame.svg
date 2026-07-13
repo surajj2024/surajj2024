@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="frameGrad" x1="0" y1="0" x2="300" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="33%" stop-color="#7C3AED"/>
+      <stop offset="66%" stop-color="#3FB950"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <linearGradient id="innerGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <filter id="frameGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="avatarClip">
+      <circle cx="150" cy="150" r="118"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer glow ring -->
+  <circle cx="150" cy="150" r="140" stroke="url(#frameGrad)" stroke-width="1" fill="none" opacity="0.2" filter="url(#frameGlow)"/>
+
+  <!-- Dashed outer ring -->
+  <circle cx="150" cy="150" r="135" stroke="url(#frameGrad)" stroke-width="1.5" fill="none" stroke-dasharray="8 5" opacity="0.4"/>
+
+  <!-- Main frame ring -->
+  <circle cx="150" cy="150" r="124" stroke="url(#frameGrad)" stroke-width="5" fill="none" filter="url(#frameGlow)" opacity="0.9"/>
+
+  <!-- Inner ring -->
+  <circle cx="150" cy="150" r="118" stroke="#30363D" stroke-width="1" fill="url(#innerGrad)"/>
+
+  <!-- Avatar placeholder area (transparent — user's avatar shows through) -->
+  <circle cx="150" cy="150" r="116" fill="none"/>
+
+  <!-- Corner accent dots -->
+  <circle cx="150" cy="12" r="5" fill="#58A6FF" filter="url(#frameGlow)"/>
+  <circle cx="150" cy="288" r="5" fill="#7C3AED" filter="url(#frameGlow)"/>
+  <circle cx="12" cy="150" r="5" fill="#3FB950" filter="url(#frameGlow)"/>
+  <circle cx="288" cy="150" r="5" fill="#F78166" filter="url(#frameGlow)"/>
+
+  <!-- Diagonal accent dots -->
+  <circle cx="47" cy="47" r="3.5" fill="#58A6FF" opacity="0.6"/>
+  <circle cx="253" cy="253" r="3.5" fill="#7C3AED" opacity="0.6"/>
+  <circle cx="253" cy="47" r="3.5" fill="#3FB950" opacity="0.6"/>
+  <circle cx="47" cy="253" r="3.5" fill="#F78166" opacity="0.6"/>
+
+  <!-- Status indicator (green dot — online) -->
+  <circle cx="237" cy="237" r="14" fill="#0D1117"/>
+  <circle cx="237" cy="237" r="10" fill="#3FB950" filter="url(#frameGlow)"/>
+  <circle cx="237" cy="237" r="5" fill="#AAFFAA"/>
+</svg>

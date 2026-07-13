@@ -1,295 +1,164 @@
-<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="bg" x1="0" y1="0" x2="1500" y2="500">
-
-<stop stop-color="#0D1117"/>
-
-<stop offset="1" stop-color="#161B22"/>
-
-</linearGradient>
-
-<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
-
-<stop stop-color="#58A6FF"/>
-
-<stop offset="1" stop-color="#7C3AED"/>
-
-</linearGradient>
-
-</defs>
-
-<rect width="1500" height="500" fill="url(#bg)"/>
-
-<g opacity="0.08">
-
-<path d="M0 60H1500"/>
-
-<path d="M0 120H1500"/>
-
-<path d="M0 180H1500"/>
-
-<path d="M0 240H1500"/>
-
-<path d="M0 300H1500"/>
-
-<path d="M0 360H1500"/>
-
-<path d="M0 420H1500"/>
-
-<path d="M150 0V500"/>
-
-<path d="M300 0V500"/>
-
-<path d="M450 0V500"/>
-
-<path d="M600 0V500"/>
-
-<path d="M750 0V500"/>
-
-<path d="M900 0V500"/>
-
-<path d="M1050 0V500"/>
-
-<path d="M1200 0V500"/>
-
-<path d="M1350 0V500"/>
-
-<path stroke="#58A6FF" stroke-width="1"/>
-
-</g>
-
-<circle cx="1180" cy="120" r="120" fill="#58A6FF" opacity="0.06"/>
-
-<circle cx="1350" cy="360" r="170" fill="#7C3AED" opacity="0.05"/>
-
-<text
-
-x="90"
-
-y="150"
-
-fill="#F0F6FC"
-
-font-size="62"
-
-font-weight="700"
-
-font-family="Segoe UI">
-
-Suraj Kumar
-
-</text>
-
-<text
-
-x="90"
-
-y="205"
-
-fill="#58A6FF"
-
-font-size="30"
-
-font-family="Segoe UI"
-
-font-weight="600">
-
-AI Backend Engineer
-
-</text>
-
-<text
-
-x="90"
-
-y="255"
-
-fill="#8B949E"
-
-font-size="24"
-
-font-family="Segoe UI">
-
-Building Intelligent Enterprise Systems
-
-</text>
-
-<rect
-
-x="90"
-
-y="305"
-
-rx="8"
-
-ry="8"
-
-width="120"
-
-height="38"
-
-fill="#21262D"/>
-
-<text
-
-x="112"
-
-y="330"
-
-fill="#58A6FF"
-
-font-size="18"
-
-font-family="Segoe UI">
-
-Laravel
-
-</text>
-
-<rect
-
-x="225"
-
-y="305"
-
-rx="8"
-
-ry="8"
-
-width="115"
-
-height="38"
-
-fill="#21262D"/>
-
-<text
-
-x="248"
-
-y="330"
-
-fill="#58A6FF"
-
-font-size="18"
-
-font-family="Segoe UI">
-
-Python
-
-</text>
-
-<rect
-
-x="355"
-
-y="305"
-
-rx="8"
-
-ry="8"
-
-width="90"
-
-height="38"
-
-fill="#21262D"/>
-
-<text
-
-x="382"
-
-y="330"
-
-fill="#58A6FF"
-
-font-size="18"
-
-font-family="Segoe UI">
-
-AWS
-
-</text>
-
-<rect
-
-x="460"
-
-y="305"
-
-rx="8"
-
-ry="8"
-
-width="130"
-
-height="38"
-
-fill="#21262D"/>
-
-<text
-
-x="480"
-
-y="330"
-
-fill="#58A6FF"
-
-font-size="18"
-
-font-family="Segoe UI">
-
-GraphQL
-
-</text>
-
-<rect
-
-x="605"
-
-y="305"
-
-rx="8"
-
-ry="8"
-
-width="90"
-
-height="38"
-
-fill="#21262D"/>
-
-<text
-
-x="632"
-
-y="330"
-
-fill="#58A6FF"
-
-font-size="18"
-
-font-family="Segoe UI">
-
-LLMs
-
-</text>
-
-<text
-
-x="90"
-
-y="410"
-
-fill="#3FB950"
-
-font-size="22"
-
-font-family="Segoe UI">
-
-Enterprise SaaS • AI Agents • Text-to-SQL • RAG • Cloud Architecture
-
-</text>
+<svg width="1500" height="420" viewBox="0 0 1500 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1500" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+
+    <!-- Blue-purple accent gradient -->
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <!-- Title text gradient -->
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F0F6FC"/>
+      <stop offset="60%" stop-color="#C9D1D9"/>
+      <stop offset="100%" stop-color="#8B949E"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow for circles -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#58A6FF" stroke-width="0.3" opacity="0.15"/>
+    </pattern>
+
+    <!-- Dot pattern -->
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#58A6FF" opacity="0.12"/>
+    </pattern>
+
+    <!-- Clip path for rounded corners -->
+    <clipPath id="roundedClip">
+      <rect width="1500" height="420" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="420" fill="url(#bgGrad)"/>
+
+  <!-- Grid overlay (right side) -->
+  <rect x="700" y="0" width="800" height="420" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Dot pattern (left side subtle) -->
+  <rect x="0" y="0" width="700" height="420" fill="url(#dots)" opacity="0.5"/>
+
+  <!-- Ambient glow orbs -->
+  <circle cx="1200" cy="80" r="180" fill="#58A6FF" opacity="0.04" filter="url(#softGlow)"/>
+  <circle cx="1380" cy="340" r="220" fill="#7C3AED" opacity="0.05" filter="url(#softGlow)"/>
+  <circle cx="900" cy="210" r="140" fill="#7C3AED" opacity="0.03" filter="url(#softGlow)"/>
+  <circle cx="200" cy="350" r="120" fill="#58A6FF" opacity="0.03" filter="url(#softGlow)"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1500" height="3" fill="url(#accentGrad)" opacity="0.9"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="417" width="1500" height="3" fill="url(#accentGrad)" opacity="0.4"/>
+
+  <!-- Left vertical accent bar -->
+  <rect x="60" y="60" width="3" height="300" rx="2" fill="url(#accentGrad)" opacity="0.7"/>
+
+  <!-- ── MAIN CONTENT ── -->
+
+  <!-- Eyebrow label -->
+  <rect x="80" y="72" width="180" height="26" rx="13" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <circle cx="100" cy="85" r="5" fill="#3FB950"/>
+  <text x="114" y="90" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#8B949E" letter-spacing="1.5">AVAILABLE TO WORK</text>
+
+  <!-- Main name -->
+  <text x="80" y="175" font-family="'Segoe UI', system-ui, sans-serif" font-size="72" font-weight="800" fill="url(#titleGrad)" filter="url(#glow)">Suraj Kumar</text>
+
+  <!-- Role title with gradient underline -->
+  <text x="82" y="225" font-family="'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="600" fill="#58A6FF">AI Backend Engineer</text>
+  <rect x="82" y="232" width="280" height="2" rx="1" fill="url(#accentGrad)" opacity="0.6"/>
+
+  <!-- Subtitle -->
+  <text x="82" y="270" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" fill="#8B949E" letter-spacing="0.3">Building Intelligent Enterprise Systems · India 🇮🇳</text>
+
+  <!-- Tech pills row -->
+  <!-- Laravel pill -->
+  <rect x="82" y="300" width="100" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="132" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#FF2D20" text-anchor="middle">Laravel</text>
+
+  <!-- Python pill -->
+  <rect x="194" y="300" width="100" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="244" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#3776AB" text-anchor="middle">Python</text>
+
+  <!-- AWS pill -->
+  <rect x="306" y="300" width="80" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="346" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#FF9900" text-anchor="middle">AWS</text>
+
+  <!-- GraphQL pill -->
+  <rect x="398" y="300" width="110" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="453" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#E10098" text-anchor="middle">GraphQL</text>
+
+  <!-- LLMs pill -->
+  <rect x="520" y="300" width="80" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="560" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#7C3AED" text-anchor="middle">LLMs</text>
+
+  <!-- RAG pill -->
+  <rect x="612" y="300" width="70" height="32" rx="16" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+  <text x="647" y="321" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#58A6FF" text-anchor="middle">RAG</text>
+
+  <!-- Bottom tagline -->
+  <text x="82" y="390" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#3FB950" letter-spacing="0.5">✦ Enterprise SaaS  ·  AI Agents  ·  Text-to-SQL  ·  Cloud Architecture  ·  Distributed Systems</text>
+
+  <!-- ── RIGHT SIDE DECORATIVE ELEMENT ── -->
+
+  <!-- Hexagonal code block decoration -->
+  <g transform="translate(1050, 80)" opacity="0.85">
+    <!-- Outer ring -->
+    <circle cx="200" cy="160" r="155" stroke="#30363D" stroke-width="1" fill="none" stroke-dasharray="4 6"/>
+    <!-- Middle ring -->
+    <circle cx="200" cy="160" r="115" stroke="#58A6FF" stroke-width="0.8" fill="none" opacity="0.3"/>
+    <!-- Inner circle -->
+    <circle cx="200" cy="160" r="80" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+
+    <!-- SK monogram in center -->
+    <text x="200" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="800" fill="#F0F6FC" text-anchor="middle" opacity="0.9">SK</text>
+    <text x="200" y="175" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#58A6FF" text-anchor="middle" letter-spacing="2">ENGINEER</text>
+
+    <!-- Orbiting dots -->
+    <circle cx="200" cy="45" r="6" fill="#58A6FF" opacity="0.9"/>
+    <circle cx="200" cy="275" r="6" fill="#7C3AED" opacity="0.9"/>
+    <circle cx="45" cy="160" r="5" fill="#3FB950" opacity="0.8"/>
+    <circle cx="355" cy="160" r="5" fill="#F78166" opacity="0.8"/>
+
+    <!-- Diagonal accent dots -->
+    <circle cx="91" cy="91" r="4" fill="#58A6FF" opacity="0.5"/>
+    <circle cx="309" cy="229" r="4" fill="#7C3AED" opacity="0.5"/>
+    <circle cx="309" cy="91" r="4" fill="#3FB950" opacity="0.5"/>
+    <circle cx="91" cy="229" r="4" fill="#F78166" opacity="0.5"/>
+
+    <!-- Floating labels around ring -->
+    <text x="200" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#58A6FF" text-anchor="middle" opacity="0.7">AI AGENTS</text>
+    <text x="200" y="310" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle" opacity="0.7">BACKEND</text>
+    <text x="10" y="164" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#3FB950" text-anchor="middle" opacity="0.7">CLOUD</text>
+    <text x="390" y="164" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#F78166" text-anchor="middle" opacity="0.7">LLMs</text>
+  </g>
+
+  <!-- Animated pulse ring (static representation) -->
+  <circle cx="1250" cy="240" r="195" stroke="#58A6FF" stroke-width="0.5" fill="none" opacity="0.06"/>
+  <circle cx="1250" cy="240" r="230" stroke="#7C3AED" stroke-width="0.5" fill="none" opacity="0.04"/>
 
 </svg>

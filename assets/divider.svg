@@ -1,0 +1,40 @@
+<svg width="1500" height="40" viewBox="0 0 1500 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0" y1="0" x2="1500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0" y1="0" x2="1500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.25"/>
+      <stop offset="80%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Glow layer -->
+  <rect x="0" y="16" width="1500" height="8" rx="4" fill="url(#glowGrad)"/>
+
+  <!-- Main line -->
+  <rect x="0" y="19" width="1500" height="2" rx="1" fill="url(#divGrad)"/>
+
+  <!-- Center diamond accent -->
+  <g transform="translate(750, 20)">
+    <rect x="-6" y="-6" width="12" height="12" rx="2" fill="#7C3AED" transform="rotate(45)" opacity="0.9"/>
+    <rect x="-3" y="-3" width="6" height="6" rx="1" fill="#58A6FF" transform="rotate(45)" opacity="1"/>
+  </g>
+
+  <!-- Left accent dots -->
+  <circle cx="600" cy="20" r="2" fill="#58A6FF" opacity="0.6"/>
+  <circle cx="560" cy="20" r="1.5" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="525" cy="20" r="1" fill="#58A6FF" opacity="0.25"/>
+
+  <!-- Right accent dots -->
+  <circle cx="900" cy="20" r="2" fill="#58A6FF" opacity="0.6"/>
+  <circle cx="940" cy="20" r="1.5" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="975" cy="20" r="1" fill="#58A6FF" opacity="0.25"/>
+</svg>
