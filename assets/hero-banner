@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="600" fill="url(#bg)"/>
+
+  <!-- Glow -->
+  <circle cx="1320" cy="120" r="180"
+          fill="#58A6FF"
+          opacity="0.12"
+          filter="url(#blur)"/>
+
+  <circle cx="1450" cy="520" r="220"
+          fill="#7C3AED"
+          opacity="0.10"
+          filter="url(#blur)"/>
+
+  <!-- Grid -->
+  <g opacity="0.05">
+
+    <path d="M0 100H1600" stroke="#FFFFFF"/>
+    <path d="M0 200H1600" stroke="#FFFFFF"/>
+    <path d="M0 300H1600" stroke="#FFFFFF"/>
+    <path d="M0 400H1600" stroke="#FFFFFF"/>
+    <path d="M0 500H1600" stroke="#FFFFFF"/>
+
+    <path d="M200 0V600" stroke="#FFFFFF"/>
+    <path d="M400 0V600" stroke="#FFFFFF"/>
+    <path d="M600 0V600" stroke="#FFFFFF"/>
+    <path d="M800 0V600" stroke="#FFFFFF"/>
+    <path d="M1000 0V600" stroke="#FFFFFF"/>
+    <path d="M1200 0V600" stroke="#FFFFFF"/>
+    <path d="M1400 0V600" stroke="#FFFFFF"/>
+
+  </g>
+
+  <!-- Name -->
+  <text
+      x="90"
+      y="170"
+      font-size="70"
+      font-family="Inter,Segoe UI,Arial"
+      font-weight="700"
+      fill="#F0F6FC">
+
+      Suraj Kumar
+
+  </text>
+
+  <!-- Title -->
+  <text
+      x="90"
+      y="230"
+      font-size="34"
+      font-family="Inter,Segoe UI"
+      fill="#58A6FF"
+      font-weight="600">
+
+      AI Backend Engineer
+
+  </text>
+
+  <!-- Tagline -->
+  <text
+      x="90"
+      y="285"
+      font-size="26"
+      font-family="Inter,Segoe UI"
+      fill="#8B949E">
+
+      Building Intelligent Enterprise Systems
+
+  </text>
+
+  <!-- Divider -->
+  <rect
+      x="90"
+      y="315"
+      width="420"
+      height="4"
+      rx="2"
+      fill="url(#accent)"/>
+
+  <!-- Tech Pills -->
+  <g font-family="Inter" font-size="20">
+
+    <rect x="90" y="360" width="120" height="44" rx="10" fill="#21262D"/>
+    <text x="120" y="389" fill="#58A6FF">Laravel</text>
+
+    <rect x="225" y="360" width="115" height="44" rx="10" fill="#21262D"/>
+    <text x="255" y="389" fill="#58A6FF">Python</text>
+
+    <rect x="355" y="360" width="90" height="44" rx="10" fill="#21262D"/>
+    <text x="385" y="389" fill="#58A6FF">AWS</text>
+
+    <rect x="460" y="360" width="130" height="44" rx="10" fill="#21262D"/>
+    <text x="485" y="389" fill="#58A6FF">GraphQL</text>
+
+    <rect x="605" y="360" width="90" height="44" rx="10" fill="#21262D"/>
+    <text x="635" y="389" fill="#58A6FF">LLMs</text>
+
+  </g>
+
+  <!-- Bottom text -->
+  <text
+      x="90"
+      y="480"
+      font-size="22"
+      font-family="Inter"
+      fill="#3FB950">
+
+Enterprise SaaS • AI Agents • RAG • Text-to-SQL • AWS • Docker
+
+  </text>
+
+  <!-- Decorative Rings -->
+  <circle
+      cx="1330"
+      cy="300"
+      r="120"
+      fill="none"
+      stroke="#58A6FF"
+      stroke-opacity="0.20"
+      stroke-width="3"/>
+
+  <circle
+      cx="1330"
+      cy="300"
+      r="80"
+      fill="none"
+      stroke="#7C3AED"
+      stroke-opacity="0.25"
+      stroke-width="2"/>
+
+  <circle
+      cx="1330"
+      cy="300"
+      r="40"
+      fill="#58A6FF"
+      fill-opacity="0.10"/>
+
+</svg>

@@ -1,15 +1,34 @@
 <div align="center">
+<p align="center">
+  <img src="./assets/hero-banner.svg" width="100%" alt="Suraj Kumar Banner"/>
+</p>
 
 # 👋 Hi, I'm Suraj Kumar
 
-### Backend Software Engineer • AI Engineer • Cloud Enthusiast
+### AI Backend Engineer • Enterprise AI • Cloud • Distributed Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Laravel+Developer;AWS+Cloud+Engineer;AI+%26+LLM+Enthusiast;Python+Developer;Building+Enterprise+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Enterprise+Systems;Laravel+%7C+Python+%7C+AWS+%7C+GraphQL;AI+Agents+%7C+LLMs+%7C+RAG+%7C+Text-to-SQL;Always+Learning.+Always+Building." />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=surajj2024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/surajj2024?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/surajj2024?style=for-the-badge"/>
+<br>
+
+<p align="center">
+
+<a href="https://github.com/surajj2024">
+<img src="https://img.shields.io/github/followers/surajj2024?style=for-the-badge&logo=github&color=181717">
+</a>
+
+<a href="https://github.com/surajj2024">
+<img src="https://komarev.com/ghpvc/?username=surajj2024&style=for-the-badge&color=blue">
+</a>
+
+<a href="https://www.linkedin.com/in/suraj-kumar-5b34a61b3/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://medium.com/@surajjkumar9608">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium">
+</a>
+
 </p>
 
 </div>
@@ -18,59 +37,211 @@
 
 # 🚀 About Me
 
-I'm a **Backend Software Engineer** focused on designing scalable enterprise systems and AI-powered applications.
+I'm an **AI Backend Engineer** passionate about designing scalable enterprise systems and intelligent applications.
 
-* 💼 2+ years of backend engineering experience
-* ⚡ Laravel, PHP, GraphQL & PostgreSQL
-* ☁️ AWS (Lambda, Bedrock, API Gateway, S3)
-* 🤖 AI Agents, RAG & LLM Applications
-* 🐍 Learning Python, Kubernetes & MLOps
-* 🎯 Passionate about clean architecture and system design
+- 💼 Software Engineer @ **Thinqpixel**
+- 🤖 Building AI-powered Enterprise Applications
+- ☁️ Working with AWS Cloud
+- ⚡ Laravel & GraphQL Specialist
+- 🐍 Python Enthusiast
+- 🧠 Exploring Agentic AI & MLOps
+- 📍 India 🇮🇳
 
 ---
 
-# 💻 Tech Stack
+# 🎯 What I Do
 
-<p align="center">
+```text
+🧠 AI Engineering
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,aws,docker,postgres,mysql,react,js,ts,git,github,linux,vscode"/>
+LLMs
+RAG
+Embeddings
+AI Agents
+Prompt Engineering
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙ Backend Engineering
+
+Laravel
+GraphQL
+REST APIs
+Node.js
+Python
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☁ Cloud
+
+AWS
+Docker
+Redis
+PostgreSQL
+CI/CD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏗 System Design
+
+Multi-Tenant SaaS
+Distributed Systems
+Microservices
+Event Driven Architecture
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=graphql"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 🌟 Featured Work
+
+## 🚀 Enterprise SaaS Platform
+
+Enterprise multi-tenant platform powering strategic planning and AI-assisted workflows.
+
+**Highlights**
+
+- GraphQL APIs
+- Dynamic Metadata Engine
+- PostgreSQL
+- Redis Queue
+- Docker
+- AWS
+- AI-assisted Data Import
+
+---
+
+## 🤖 AI Text-to-SQL Assistant
+
+Convert natural language into optimized SQL using LLMs.
+
+Features
+
+- Schema-aware prompting
+- Multi-tenant security
+- SQL validation
+- Context-aware retrieval
+- Conversational interface
+
+---
+
+## 📊 Enterprise AI Data Ingestion
+
+LLM-powered Excel ingestion pipeline.
 
 ```text
-🚀 Enterprise AI Applications
-🤖 AI Agents
-☁ AWS Cloud Architecture
-📊 Scalable Backend Systems
-🐍 Python
-🧠 MLOps
-⚙ Clean Architecture
+Excel
+
+↓
+
+Parser
+
+↓
+
+Embedding
+
+↓
+
+Similarity Search
+
+↓
+
+LLM Validation
+
+↓
+
+Database
 ```
 
 ---
 
-# 🌟 Featured Projects
+## 🧠 AI Pull Request Reviewer
 
-| Project                    | Description                                            |
-| -------------------------- | ------------------------------------------------------ |
-| 🚀 VisionSync Enterprise   | Strategic Planning Platform with Laravel, GraphQL & AI |
-| 🤖 Enterprise AI FAQ Agent | Amazon Bedrock + Vector Search + RAG                   |
-| 💬 Streaming AI Chatbot    | Laravel + FastAPI + AWS Lambda                         |
-| 📂 Google Drive Clone      | React + Firebase                                       |
+Built an AI reviewer using LLMs to automatically review pull requests.
+
+Read more on Medium 👇
+
+- AI Pull Request Reviewer
+- AI Commit Messages using Gemini
 
 ---
 
-# 📊 GitHub Analytics
+# 📝 Latest Articles
+
+| Article | Link |
+|----------|------|
+| AI Pull Request Reviewer | https://medium.com/@surajjkumar9608/i-built-an-ai-that-reviews-my-pull-requests-d9a591255e75 |
+| AI Pull Request Reviewer (Updated) | https://medium.com/@surajjkumar9608/i-built-an-ai-that-reviews-my-pull-requests-fd44360d54bd |
+| AI Git Commit Generator | https://medium.com/@surajjkumar9608/ai-powered-git-commit-messages-using-gemini-8aa6a5498287 |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,56 +257,58 @@ I'm a **Backend Software Engineer** focused on designing scalable enterprise sys
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajj2024&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📚 Learning Journey
-
-* ✅ Laravel
-* ✅ GraphQL
-* ✅ PostgreSQL
-* ✅ AWS
-* ✅ AI Agents
-* 🔄 Python
-* 🔄 Kubernetes
-* 🔄 MLOps
-* 🔄 LangGraph
+- AI Agents
+- Agentic Workflows
+- AWS Bedrock
+- Kubernetes
+- LangGraph
+- MLOps
+- Distributed Systems
 
 ---
 
 # 💡 Engineering Philosophy
 
-> "Write software that is easy to understand today and easy to scale tomorrow."
+> Great software isn't measured by the number of lines of code, but by the number of problems it quietly solves.
 
 ---
 
-# 🤝 Connect
+# 🤝 Let's Connect
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/suraj-kumar-5b34a61b3/">
+
+LinkedIn
+
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+•
+
+<a href="https://medium.com/@surajjkumar9608">
+
+Medium
+
+</a>
+
+•
+
+<a href="mailto:surajjkumar9608@gmail.com">
+
+Email
+
 </a>
 
 </p>
@@ -146,6 +319,6 @@ I'm a **Backend Software Engineer** focused on designing scalable enterprise sys
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building software that solves real-world problems."*
+Building scalable software, intelligent systems, and meaningful developer experiences.
 
 </div>
