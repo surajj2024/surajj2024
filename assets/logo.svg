@@ -1,50 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="220"
-     height="220"
-     viewBox="0 0 220 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <linearGradient id="logoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="220" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#3FB950"/>
+    </linearGradient>
+    <filter id="logoGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<defs>
+  <!-- Background -->
+  <rect width="220" height="220" rx="44" fill="#0D1117"/>
 
-<linearGradient id="g"
-x1="0"
-y1="0"
-x2="1"
-y2="1">
+  <!-- Subtle inner glow -->
+  <rect width="220" height="220" rx="44" fill="none" stroke="url(#logoGrad)" stroke-width="2" opacity="0.6"/>
 
-<stop offset="0%"
-stop-color="#58A6FF"/>
+  <!-- Outer decorative ring -->
+  <circle cx="110" cy="110" r="90" stroke="url(#ringGrad)" stroke-width="1.5" fill="none" stroke-dasharray="6 4" opacity="0.5"/>
 
-<stop offset="100%"
-stop-color="#7C3AED"/>
+  <!-- Inner solid ring -->
+  <circle cx="110" cy="110" r="76" stroke="url(#logoGrad)" stroke-width="3" fill="none" opacity="0.8"/>
 
-</linearGradient>
+  <!-- Background circle fill -->
+  <circle cx="110" cy="110" r="73" fill="#161B22"/>
 
-</defs>
+  <!-- SK text -->
+  <text
+    x="110"
+    y="128"
+    font-family="'Segoe UI', system-ui, sans-serif"
+    font-size="56"
+    font-weight="800"
+    fill="url(#logoGrad)"
+    text-anchor="middle"
+    filter="url(#logoGlow)">SK</text>
 
-<rect
-width="220"
-height="220"
-rx="40"
-fill="#0D1117"/>
-
-<circle
-cx="110"
-cy="110"
-r="82"
-stroke="url(#g)"
-stroke-width="4"
-fill="none"/>
-
-<text
-x="62"
-y="132"
-font-size="58"
-font-family="Segoe UI"
-font-weight="700"
-fill="#F0F6FC">
-
-SK
-
-</text>
-
+  <!-- Accent dots at cardinal points -->
+  <circle cx="110" cy="20" r="4" fill="#58A6FF" opacity="0.8"/>
+  <circle cx="110" cy="200" r="4" fill="#7C3AED" opacity="0.8"/>
+  <circle cx="20" cy="110" r="4" fill="#3FB950" opacity="0.8"/>
+  <circle cx="200" cy="110" r="4" fill="#F78166" opacity="0.8"/>
 </svg>
