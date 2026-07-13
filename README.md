@@ -7,12 +7,12 @@
 <a href="https://github.com/surajj2024"><img src="https://img.shields.io/github/followers/surajj2024?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0D1117&labelColor=161B22" alt="Followers"/></a>
 <a href="https://github.com/surajj2024?tab=stars"><img src="https://img.shields.io/github/stars/surajj2024?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0D1117&labelColor=161B22" alt="Stars"/></a>
 <img src="https://komarev.com/ghpvc/?username=surajj2024&style=for-the-badge&color=0D1117&labelColor=161B22&label=Profile+Views" alt="Profile Views"/>
-<a href="https://www.linkedin.com/in/suraj-kumar-5b34a61b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0D1117" alt="LinkedIn"/></a>
-<a href="https://medium.com/@surajjkumar9608"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=0D1117" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/suraj-kumar-5b34a61b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@surajjkumar9608"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🧠+Building+Intelligent+Enterprise+Systems;⚡+Laravel+%7C+Python+%7C+AWS+%7C+GraphQL;🤖+AI+Agents+%7C+LLMs+%7C+RAG+%7C+Text-to-SQL;☁️+Cloud+Architecture+%7C+Distributed+Systems;🚀+Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Enterprise+Systems;Laravel+%7C+Python+%7C+AWS+%7C+GraphQL;AI+Agents+%7C+LLMs+%7C+RAG+%7C+Text-to-SQL;Cloud+Architecture+%7C+Distributed+Systems;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 </div>
 
@@ -22,15 +22,13 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="./assets/logo.svg" width="120" alt="SK Logo"/>
-
 I'm **Suraj Kumar**, an **AI Backend Engineer** at **Thinqpixel** 🇮🇳, passionate about building scalable enterprise systems and intelligent AI-powered applications.
 
 ```yaml
 name:       Suraj Kumar
 role:       AI Backend Engineer
 company:    Thinqpixel
-location:   India 🇮🇳
+location:   India
 focus:      Enterprise AI · Backend Systems · Cloud Architecture
 writing:    medium.com/@surajjkumar9608
 ```
@@ -156,7 +154,7 @@ writing:    medium.com/@surajjkumar9608
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Powered-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
@@ -214,15 +212,20 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Stats"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=surajj2024&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -248,12 +251,14 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 
 ## 🐍 Contribution Snake
 
+> ⚡ *Auto-generated daily by GitHub Actions — run the [snake workflow](https://github.com/surajj2024/surajj2024/actions/workflows/snake.yml) once to activate.*
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajj2024/surajj2024/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surajj2024/surajj2024/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/surajj2024/surajj2024/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/surajj2024/surajj2024/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -301,7 +306,7 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 </a>
 &nbsp;
 <a href="https://medium.com/@surajjkumar9608">
-  <img src="https://img.shields.io/badge/Medium-@surajjkumar9608-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-%40surajjkumar9608-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 &nbsp;
 <a href="mailto:surajjkumar9608@gmail.com">
@@ -319,12 +324,6 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <div align="center">
-
-<img src="./assets/logo.svg" width="80" alt="SK"/>
-
-<br/>
-
-**Suraj Kumar** · AI Backend Engineer · India 🇮🇳
 
 *Building scalable software, intelligent systems, and meaningful developer experiences.*
 
