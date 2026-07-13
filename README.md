@@ -211,9 +211,9 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -221,7 +221,7 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=surajj2024&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=surajj2024&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -229,7 +229,7 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajj2024&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=7C3AED&point=58A6FF&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajj2024&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=7C3AED&point=58A6FF&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Excel → Parser → Embedding → Similarity Search → LLM Validation → Data
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
