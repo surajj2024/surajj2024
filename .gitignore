@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+node_modules
+vendor
+.idea
+.vscode
+coverage
+dist
+build
+*.log
+*.sqlite
+Thumbs.db
