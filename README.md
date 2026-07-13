@@ -1,135 +1,77 @@
-# <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Software Engineer • Laravel • AWS • AI • Python
-</h3>
+# 👋 Hi, I'm Suraj Kumar
+
+### Backend Software Engineer • AI Engineer • Cloud Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Laravel+Developer;AWS+Cloud+Engineer;AI+%26+LLM+Enthusiast;Python+Developer;Building+Enterprise+Applications" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=surajj2024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/surajj2024?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/surajj2024?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Backend Software Engineer** focused on designing scalable enterprise systems and AI-powered applications.
+
+* 💼 2+ years of backend engineering experience
+* ⚡ Laravel, PHP, GraphQL & PostgreSQL
+* ☁️ AWS (Lambda, Bedrock, API Gateway, S3)
+* 🤖 AI Agents, RAG & LLM Applications
+* 🐍 Learning Python, Kubernetes & MLOps
+* 🎯 Passionate about clean architecture and system design
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-Building scalable backend systems and intelligent enterprise applications.
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,aws,docker,postgres,mysql,react,js,ts,git,github,linux,vscode"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🎯 Current Focus
 
-* 💼 Backend Software Engineer with **2+ years** of experience
-* ⚡ Specialized in **Laravel, PHP, GraphQL & PostgreSQL**
-* ☁️ Working with **AWS (Lambda, Bedrock, S3, API Gateway)**
-* 🤖 Passionate about **AI Agents, LLMs, RAG, and Enterprise AI**
-* 🐍 Currently learning **Python, MLOps, Kubernetes & Agentic AI**
-* 🌱 Always building and learning something new
-
----
-
-## 🎯 Current Focus
-
-* 🚀 Enterprise AI Applications
-* 🤖 AI Agents & RAG Systems
-* ☁️ AWS Cloud Architecture
-* 🐍 Python Backend Development
-* 📈 Scalable Laravel Applications
-* ⚙️ System Design & Clean Architecture
+```text
+🚀 Enterprise AI Applications
+🤖 AI Agents
+☁ AWS Cloud Architecture
+📊 Scalable Backend Systems
+🐍 Python
+🧠 MLOps
+⚙ Clean Architecture
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🌟 Featured Projects
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
-</p>
-
-### Tools
-
-* GraphQL
-* REST APIs
-* Firebase
-* GitHub Actions
-* OpenAI APIs
-* Amazon Bedrock
-* Vector Databases
+| Project                    | Description                                            |
+| -------------------------- | ------------------------------------------------------ |
+| 🚀 VisionSync Enterprise   | Strategic Planning Platform with Laravel, GraphQL & AI |
+| 🤖 Enterprise AI FAQ Agent | Amazon Bedrock + Vector Search + RAG                   |
+| 💬 Streaming AI Chatbot    | Laravel + FastAPI + AWS Lambda                         |
+| 📂 Google Drive Clone      | React + Firebase                                       |
 
 ---
 
-# 📌 Featured Projects
-
-### 🚀 VisionSync Enterprise Platform
-
-Enterprise Strategic Planning Platform built using Laravel, GraphQL, PostgreSQL and AI.
-
-**Highlights**
-
-* Business Capability Management
-* Strategic Planning
-* AI Assistant
-* Enterprise Architecture
-* GraphQL APIs
-* PostgreSQL
-* AWS Integration
-
----
-
-### 🤖 Enterprise AI FAQ Agent
-
-AI-powered FAQ assistant using
-
-* Python
-* Amazon Bedrock
-* Embeddings
-* Vector Search
-* RAG
-* Enterprise Knowledge Base
-
----
-
-### 💬 Streaming AI Chatbot
-
-Real-time AI chatbot supporting
-
-* Laravel Backend
-* FastAPI
-* AWS Lambda
-* Claude Models
-* Streaming Responses
-* Enterprise Authentication
-
----
-
-### 📂 Google Drive Clone
-
-Built with
-
-* React
-* Firebase
-* Authentication
-* Cloud Storage
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=surajj2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajj2024&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -137,15 +79,9 @@ Built with
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=surajj2024&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -153,48 +89,63 @@ Built with
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajj2024&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Achievements
 
-* ✅ Advanced Laravel Architecture
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=surajj2024&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📚 Learning Journey
+
+* ✅ Laravel
 * ✅ GraphQL
-* ✅ PostgreSQL Optimization
-* ✅ AWS Services
+* ✅ PostgreSQL
+* ✅ AWS
 * ✅ AI Agents
 * 🔄 Python
-* 🔄 MLOps
 * 🔄 Kubernetes
+* 🔄 MLOps
 * 🔄 LangGraph
-* 🔄 LLM Evaluation
 
 ---
 
 # 💡 Engineering Philosophy
 
-> Build software that is **simple to understand, scalable to grow, and reliable in production.**
+> "Write software that is easy to understand today and easy to scale tomorrow."
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
-* 💼 LinkedIn *(Add your profile URL)*
-* 🌐 Portfolio *(Add when available)*
-* 📧 Email *(Add your email)*
+<p>
 
----
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-# 👀 Profile Views
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=surajj2024&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# ⭐ Thanks for visiting!
+<div align="center">
 
-If you like my work, consider following my GitHub profile and checking out my repositories.
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that solves real-world problems."*
+
+</div>
